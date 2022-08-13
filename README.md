@@ -16,9 +16,9 @@ Collect the store data on daily basis with the help of google form and then put 
 
 
 #### Files
-DataInsertion.py - This script is able to dump the data in MySQL.
-Main.py - This script is able to retrieve all data from MySQL and save that data into FinalData.csv
-FinalData.csv - contains 120 days of Store data.
+* DataInsertion.py - This script is able to dump the data in MySQL.
+* Main.py - This script is able to retrieve all data from MySQL and save that data into FinalData.csv
+* FinalData.csv - contains 120 days of Store data.
 
 
 

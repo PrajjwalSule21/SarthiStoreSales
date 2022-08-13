@@ -3,7 +3,7 @@
 ## Analyzing the sales of Sarthi Store, sarthi is a general store where they have variety of items such as Household, Kitchen, Men Accessories, Cosmetics, Other Accessories, Clothes, and many more. This store is operated by my father (Family Business).
 
 ### Approach
-Collect the store data on daily basis with the help of google form and then put those data into MySQL database for further use. In this project I used google form for collection the data till 120 days and then Python to dump all those data into MySQL and then perform Data Analysis.
+Collect the store data on daily basis with the help of google form and then put those data into MySQL database for further use. In this project I used google form for collection the data of 4 months and then Python to dump all those data into MySQL for further process.
 
 
 ### Technology Used
@@ -18,7 +18,7 @@ Collect the store data on daily basis with the help of google form and then put 
 #### Files
 * DataInsertion.py - This script is able to dump the data in MySQL.
 * Main.py - This script is able to retrieve all data from MySQL and save that data into FinalData.csv
-* FinalData.csv - contains 120 days of Store data.
+* FinalData.csv - Contains 4 Months of Store data.
 
 
 

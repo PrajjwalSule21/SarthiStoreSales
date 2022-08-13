@@ -1,0 +1,14 @@
+Item,Quantity,Category,Customer,Customer_Type,Price
+Perfume,1,Men's Accessories,Male,Teen = 13-19 yrs,100
+Spoons,1,Kitchen,Female,Adult = 20-39 yrs,80
+Mop,1,Household,Female,Adult = 20-39 yrs,120
+Broom,1,Household,Female,Adult = 20-39 yrs,100
+Cream,1,Cosmetic,Female,Teen = 13-19 yrs,10
+Coffee Cup,1,Kitchen,Female,Adult = 20-39 yrs,85
+Lower,1,Clothing,Male,Adult = 20-39 yrs,200
+Coffee Cup,1,Kitchen,Female,Adult = 20-39 yrs,85
+Wallet,1,Men's Accessories,Male,Teen = 13-19 yrs,120
+Wallet,1,Men's Accessories,Male,Teen = 13-19 yrs,120
+Perfume,1,Men's Accessories,Male,Teen = 13-19 yrs,100
+Perfume,1,Men's Accessories,Male,Teen = 13-19 yrs,100
+Watch,1,Men's Accessories,Male,Teen = 13-19 yrs,150
